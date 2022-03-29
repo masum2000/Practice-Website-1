@@ -210,10 +210,10 @@ blockquote{
     color: #6B710E;
 }
 .footer_bg{
-    background: #635548;
+    background: #FAB72A;
 }
 #footer{
-    background-color: #635548;
+    background-color: #FAB72A;
     padding: 10px;
     text-align: center;
 }
@@ -222,7 +222,7 @@ blockquote{
 }
 #main_article_single{
     margin-bottom: 25px;
-    border-bottom: 1px solid #635548;
+    border-bottom: 1px solid #FAB72A;
     overflow: hidden;
 
 }
