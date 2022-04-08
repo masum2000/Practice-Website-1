@@ -34,19 +34,21 @@ body{
 .header_bg{
     background:#FAB72A;
     border-bottom: 5px solid #6B710E;
-    border-top: 5px solid #6b710e
+    border-top: 5px solid #6b710e;
 }
 #header{
      background-color:#FAB72A;
      padding: 15px;
      border-right: 2px solid #fff;
      border-left: 2px solid #fff;
+     text-align: center;
    
      
 }
 #header h2{
     color: #FFFFF1;
     font-family: Georgia;
+    text-align: center;
 }
 header p{
     color: #788420;
